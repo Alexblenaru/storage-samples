@@ -6,3 +6,4 @@ printing files, content providers, Storage Access Framework [SAF], etc.).
 
 For more information, please [read our documentation](https://developer.android.com/guide/topics/providers/document-provider)
 
+remove license 
